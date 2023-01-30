@@ -1,0 +1,7 @@
+Name	Number	Price
+motor	1	56
+motor	1	56
+motor	1	56
+motor	1	56
+
+Total Price --> 224
